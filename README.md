@@ -1,13 +1,15 @@
-### Hey, I'm David, nice to meet you!
+## Hey, I'm David, a CS student at the University of Waterloo in my 3rd year. 
 
-Ever since I was a child, I've had an insatiable curiosity for learning new things, such as solving a Rubik's cube and learning how to do a backflip. Today, that same drive fuels my passion for pursuing full-stack software development. I believe I have a unique skillset, and that I can be an asset to any team.
+I have 4 prior internships under my belt in 3 startups and 1 unicorn. During each internship, I have made a significant and measurable impact in full-stack projects throughout my internship career, gaining experience in a wide variety of technologies. Check out my experiences below for details!
 
-I have 1 yr of experience in 2 startups and 1 unicorn, learning skills such as software design using C4 system diagrams, full-stack programming with Python, Django, React, styled-components, and deploying my applications on AWS. I am excited about learning more about software development through internships.
+Outside of work, 
 
-🐺 At Arctic Wolf, I worked on a software design initiative that aimed to reduce pipeline bottlenecks caused by a legacy framework. I used C4 system diagrams and Python, and the implementation successfully reduced the manual labor of researchers at the company. I also developed a Django full-stack application that centralizes intel data, complete with Okta SSO and REST APIs for CRUD. I deployed the app using AWS, set up EC2/RDS instances, and configuring security groups to maintain industry-standard security.
+I love to build hobby projects that solve my own problems or interests such as a SPA for searching Twitch creators, helper programs for booking badminton club sessions, and API tools for Valorant for inspecting my teammate's analytics. Check out some of my works here:
 
-⛵ At Aboard, I worked on the Aboard SPA, mostly on major UI overhauls (React, styled-components) and creating efficient and reusable React components. I performed migrations with GraphQL and gained a deeper understanding of coding for scalability in my work here.
+https://twitch-api-spa.netlify.app/
+https://github.com/dliu27/school-helper-programs
+https://github.com/dliu27/ValorantTools
 
-🌾 At Maesos, I created a web dashboard that visualizes IoT sensor readings from farms, provides insights on data, and alerts users of dangerous conditions to farm pilot projects. I learned how to collaborate well with stakeholders and self-manage my responsibilities.
+I have also been committed to the habit of learning data structures and algorithms knowledge daily. 
 
-▶ In my spare time, I like to stay active such as playing basketball intramurals 🏀, playing badminton 🏸, flipping items on Kijiji 💹, cooking 👨‍🍳, and playing video games 🕹.
+▶ In my other spare time, I enjoy playing basketball intramurals 🏀, playing badminton 🏸, flipping items on Kijiji 💹, cooking 👨‍🍳, and playing video games 🕹.
