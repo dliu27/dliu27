@@ -6,7 +6,7 @@ Outside of work,
 
 I love to build hobby projects that solve my own problems or interests such as a SPA for searching Twitch creators, helper programs for booking badminton club sessions, and API tools for Valorant for inspecting my teammate's analytics. Check out some of my works here:
 
-https://twitch-api-spa.netlify.app/
+[https://twitch-api-spa.netlify.app/](https://twich-analytics-spa.netlify.app/)
 <br>
 https://github.com/dliu27/school-helper-programs
 <br>
