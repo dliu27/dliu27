@@ -1,5 +1,7 @@
-## Hey, I'm David, a Computer Science student at the University of Waterloo in my 4th year. 
+## Hey, I'm David, a CS student at the University of Waterloo in my 4th year. 
 
-Improving everyday.
+In here I host projects that I make purely for fun. 
 
-Check my website: https://dliu27.com
+I like making projects that automate a repetitive task or that solve some real-world problem I have.
+
+Feel free to snoop around!
