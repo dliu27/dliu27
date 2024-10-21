@@ -10,7 +10,11 @@ University of Waterloo
 
 Internship Experience:
 Tesla
+
 Streamforge
+
 Arctic Wolf
+
 Aboard
+
 Maesos Technologies
