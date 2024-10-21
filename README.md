@@ -8,10 +8,11 @@ School:
 - University of Waterloo
 - 4th year (graduating Aug 2025)
 
-Internship Experience:
-- Dagster Labs (current)
-- Tesla
-- Streamforge
-- Arctic Wolf
-- Aboard
-- Maesos Technologies
+| **Company**                          | **Focus**           |
+|:-------------------------------------|:--------------------|
+| ➡️ **Dagster Labs**                   | Full-Stack          |
+| Tesla                                | Distributed Systems |
+| Streamforge (startup)                | Full-Stack          |
+| Arctic Wolf                          | Backend             |
+| Aboard (startup)                     | Full-Stack          |
+| Maesos Technologies (startup)        | Full-Stack          |
