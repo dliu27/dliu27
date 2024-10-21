@@ -5,11 +5,10 @@ Currently working at Dagster Labs! Although most of my work is internal, you can
 Currently looking for New Grad or internship opportunities for 2025.
 
 School:
-University of Waterloo
-4th year (graduating Aug 2025)
+- University of Waterloo
+- 4th year (graduating Aug 2025)
 
 Internship Experience:
-
 - Tesla
 - Streamforge
 - Arctic Wolf
