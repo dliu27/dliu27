@@ -9,12 +9,9 @@ University of Waterloo
 4th year (graduating Aug 2025)
 
 Internship Experience:
-Tesla
 
-Streamforge
-
-Arctic Wolf
-
-Aboard
-
-Maesos Technologies
+- Tesla
+- Streamforge
+- Arctic Wolf
+- Aboard
+- Maesos Technologies
