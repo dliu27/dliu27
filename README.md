@@ -1,8 +1,8 @@
 ## Hey, I'm David, a CS student at the University of Waterloo in my 4th year. 
 
-Currently interning at Dagster Labs! Here is an open source sample of my code: https://github.com/dagster-io/dagster/pull/26365
+Here is an open source project that I worked on at Dagster: https://github.com/dagster-io/dagster/pull/26365
 
-Currently looking for New Grad or internship opportunities for 2025.
+Currently looking for New Grad opportunities for 2025.
 
 School:
 - University of Waterloo
@@ -10,7 +10,8 @@ School:
 
 | **Company**                          | **Focus**           |
 |:-------------------------------------|:--------------------|
-| ➡️ **Dagster Labs**                   | Full-Stack          |
+| ➡️ ?                                 | ?                   |
+| Dagster Labs                         | Full-Stack          |
 | Tesla                                | Distributed Systems |
 | Streamforge (startup)                | Full-Stack          |
 | Arctic Wolf                          | Backend             |
