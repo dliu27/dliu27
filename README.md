@@ -8,6 +8,7 @@ School:
 - University of Waterloo
 - 4th year (graduating Aug 2025)
 
+Experience:
 | **Company**                          | **Focus**           |
 |:-------------------------------------|:--------------------|
 | ➡️ ?                                 | ?                   |
