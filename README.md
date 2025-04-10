@@ -6,7 +6,7 @@ I have done 6 internships at the following companies: Tesla, Dagster Labs, Strea
 
 In my free time, I like to play badminton and basketball, and code up quick automation scripts in Python
 
-Currently looking for New Grad opportunities for 2025.
+I'm currently looking for New Grad opportunities for 2025.
 
 Here is an open source project that I worked on at Dagster: https://github.com/dagster-io/dagster/pull/26365
 
