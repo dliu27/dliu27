@@ -10,6 +10,4 @@ In my free time, I like to play badminton and basketball, and code up quick auto
 
 Here is an open source project that I worked on at Dagster: https://github.com/dagster-io/dagster/pull/26365
 
-Here are all my open source contributions to Dagster (not all my work, most were internal): https://github.com/dagster-io/dagster/pulls?q=is%3Apr+author%3Adliu27
-
 Email: david.liu4@uwaterloo.ca
